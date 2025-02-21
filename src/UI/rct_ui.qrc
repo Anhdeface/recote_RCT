@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="recote_RCT">
+    <file>img/backgr2.jpg</file>
+    <file>img/background.jpg</file>
+    <file>img/cross.png</file>
+    <file>img/check.png</file>
+    <file>img/document.png</file>
+    <file>img/download.png</file>
+    <file>img/home.png</file>
+    <file>img/paper-plane.png</file>
+    <file>img/play.png</file>
+    <file>img/RCT - ReCoTe.png</file>
+    <file>img/Remote Control Telegram.png</file>
+    <file>img/settings-sliders.png</file>
+    <file>img/version 1.0.png</file>
+    <file>img/wifi.png</file>
+    <file>img/wifi-slash.png</file>
+  </qresource>
+</RCC>

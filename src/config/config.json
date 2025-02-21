@@ -1,0 +1,16 @@
+{
+    "firstRun": "true",
+    "main": {
+        "delay_polling": 1,
+        "auto_run": "false",
+        "data_folder": "D:/",
+        "tokenBot": "7664822513:AAHiCWSKGC4rfmEcr4Z69NIdvdQScWpHPwc",
+        "status_bot": "true"
+    },
+    "owner": "QuocAnh x YenNgoc",
+    "info": {
+        "facebook": "https://facebook.com/tcpryz",
+        "facebook_yngc": "https://www.facebook.com/yen.ngoc.722327",
+        "email": "daolequocanh132010@gmail.com"
+    }
+}
