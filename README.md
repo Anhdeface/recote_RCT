@@ -3,9 +3,9 @@
 ---
 
 ## Mục Lục
-- [Hình ảnh về RCT](các-hình-ảnh-về-rct)
-- [Hướng dẫn cài đặt và sử dụng](hướng-dẫn-sử-dụng-phần-mềm)
-- [Thông tin về RCT](về-rct)
+- [Hình ảnh về RCT](#các-hình-ảnh-về-rct)
+- [Hướng dẫn cài đặt và sử dụng](#hướng-dẫn-sử-dụng-phần-mềm)
+- [Thông tin về RCT](#về-rct)
 ## Các hình ảnh về RCT 
   Biểu tượng 
 
@@ -57,7 +57,7 @@
 ## 1. Cài Đặt Phần Mềm
 
 - **Tải file cài đặt:**  
-  Tải file từ link cung cấp hoặc từ nguồn được hướng dẫn.
+  Tải phiên bản mới nhất từ Releases của dự án : [tại đây](https://github.com/Anhdeface/recote_RCT/releases)
 
 - **Chạy file cài đặt:**  
   Mở file cài đặt và theo dõi các bước trên màn hình.
