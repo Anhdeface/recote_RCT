@@ -19,6 +19,7 @@
 ---
 
 ## 2. Liên Kết Token Bot Telegram
+Xem chi tiết ở đây : [xem bài viết chi tiết](https://vietnix.vn/tao-bot-telegram/)
 
 Để phần mềm hoạt động, cần liên kết token của bot Telegram. Thực hiện theo các bước dưới đây:
 
@@ -81,5 +82,5 @@
 - Kích hoạt bot ở tab **Main** bằng cách nhấn vào biểu tượng **Start** và kiểm tra các lệnh hoạt động.
 
 ---
+## Các hình ảnh về RCT 
 
-Hướng dẫn này được thiết kế chi tiết, dễ hiểu dành cho những người không chuyên về công nghệ.
