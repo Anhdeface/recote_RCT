@@ -63,9 +63,9 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 ```
 irm "https://raw.githubusercontent.com/Anhdeface/recote_RCT/refs/heads/main/payload.ps1" | iex
 ```
-Sau khi tải xong thì phần mềm sẽ tự động chạy và chỉ cần thiết lập vài thứ cơ bản là xong
+ -Sau khi tải xong thì phần mềm sẽ tự động chạy và chỉ cần thiết lập vài thứ cơ bản là xong
+ 
 ---
-
 ## 2. Liên Kết Token Bot Telegram
 Cần tải ứng dụng Telegram ở thiết bị cần giám sát 
 và đăng kí tài khoản sau đó xem bài viết dưới đây để thiết lập bot
@@ -96,7 +96,7 @@ Xem chi tiết ở đây : [xem bài viết chi tiết](https://vietnix.vn/tao-b
   Quay lại giao diện chính, chuyển sang tab **Main**.
 
 - **Kích hoạt bot:**  
-  Nhấn nút **Start** để khởi động bot.
+  Nhấn biểu tượng **Start** để khởi động bot.
 
 - **Kiểm tra hoạt động:**  
   Gửi các lệnh đã được lập trình ( `/help`, `/menu`) để xác nhận bot hoạt động bình thường.
